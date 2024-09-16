@@ -1,3 +1,15 @@
+# v3.0.2 (Mon Sep 16 2024)
+
+#### 🐛 Bug Fix
+
+- [v3.0.2] various patch fixes [#4526](https://github.com/tldraw/tldraw/pull/4526) ([@ds300](https://github.com/ds300))
+
+#### Authors: 1
+
+- David Sheldrick ([@ds300](https://github.com/ds300))
+
+---
+
 # v3.0.1 (Sat Sep 14 2024)
 
 #### 🐛 Bug Fix
